@@ -1,22 +1,4 @@
-# Виртуальное окружение
-.venv/
-venv/
-ENV/
-
-# Кэш Python
 __pycache__/
-*.py[cod]
 *$py.class
 
-# Сохраненные модели и артефакты
-best_churn_model.pkl
 
-# Сгенерированные CSV отчеты
-metrics_comparison.csv
-new_client_prediction.csv
-
-# Системные файлы и IDE
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
